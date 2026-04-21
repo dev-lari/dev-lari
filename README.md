@@ -3,7 +3,8 @@
 ## Olá, mundo! Eu sou Larissa de Souza <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px">
 
  💻 Sou formada em Design (UFPE), mas sempre fui apaixonada por tecnologia e pela área de programação. <br> Atualmente estou em transição de carreira para Desenvolvimento Web. <br> <br>
- 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** pela **Escola FAT** e participando do **Bootcamp da Generation <br> Brasil** com foco em **Full-Stack JavaScript** <br>
+ 🎓 Cursando **Técnico em Desenvolvimento de Sistemas** pela **Escola FAT** e também cursando **Bacharelado em Ciência da Computação** <br> pela **Universidade Católica de Brasília.** 
+ Recentemente, finalizei o **Bootcamp da Generation Brasil** com foco em **Full-Stack JavaScript.** <br>
 </div>
 
 <div>
@@ -13,7 +14,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
+  
 
 </div>
 
